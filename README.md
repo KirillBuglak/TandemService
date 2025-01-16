@@ -6,9 +6,9 @@
 ## Stack
 Java.
 ____
-## Краткое описание задания
-1. Реализуйте интерфейс {@link IStringRowsListSorter};
-2. Реализуйте интерфейс {@link IElementNumberAssigner}.
-3. Реализуйте игру - палиндром.
+## Task description
+1. Implement interface {@link IStringRowsListSorter};
+2. Implement interface {@link IElementNumberAssigner}.
+3. Implement a game - palindrome.
 ---
 
